@@ -8,7 +8,7 @@ This Branch is being maintained by Reg Beatty
 A file where I can talk to myself.
 
 ## Other Links
-A file where I can add material that is more interesting to my own pursuits.
+A file where I can add material that is more related to my own pursuits.
 
 ## Notebook
 A file for jotting down ideas and things to do. 
