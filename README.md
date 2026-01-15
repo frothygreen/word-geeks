@@ -19,4 +19,4 @@ Where we can work on individual experiments.
 ## Us
 **Reg Beatty** is a book artist and the Project Manager at the Centre for Digital Humanities at Toronto Metropolitan University.
 
-**Alex Pospisil** is a poet, and a volunteer researcher at the ArQuives. Her creative focuses revolve around the fragmentary: exploring identities, nature, the body, the mind... and more. She is also Digital Humanist and holds an M.A. in Literatures of Modernity from TMU.
+**Alex Pospisil** is a poet, and a volunteer researcher at the ArQuives. Her creative focuses revolve around the fragmentary: exploring identities, nature, the body, the mind... and more. She is also a Digital Humanist and holds an M.A. in Literatures of Modernity from TMU.
