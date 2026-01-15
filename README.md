@@ -1,22 +1,17 @@
-# Word Geeks
+# Word Geeks - Poetaster Branch
 *Exploring collaborative poetry.*
 
 ## About
-This Repository is being used speculatively as a space, and set of tools, to research and write poems with a particular focus on collabortive work.
+This Branch is being maintained by Reg Beatty
 
-## Dialogues
-A file where we can chat casually about newsy stuff.
+## Inner Dialogues
+A file where I can talk to myself.
 
-## Links
-A file where we can add links and references to *lightly annotated* inspirations and source material.
+## Other Links
+A file where I can add material that is more interesting to my own pursuits.
 
-## Branches
-Where we can work on individual experiments.
+## Notebook
+A file for jotting down ideas and things to do. 
 
-- Poetaster branch: Reg
-- Versifier branch: Alex 
-
-## Us
-**Reg Beatty** is a book artist and the Project Manager at the Centre for Digital Humanities at Toronto Metropolitan University.
-
-**Alex Pospisil** is a poet, and a volunteer researcher at the ArQuives. Her creative focuses revolve around the fragmentary: exploring identities, nature, the body, the mind... and more. She is also a Digital Humanist and holds an M.A. in Literatures of Modernity from TMU.
+## Poems 
+This is a folder for more focussed work on the constraints of writing and composing poetry. 
