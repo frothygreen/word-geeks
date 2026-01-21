@@ -1,7 +1,7 @@
 # On the poetry game I'm developing:
 
 ## The origin
-I was trying to solve a problem. In the summer of 2025, I [created a fanpage for an anime called Yokohama Shopping Log.](https://con-ver-gence.neocities.org/anime/yokohama) 
+I was trying to solve a problem. In the summer of 2025, [I created a fanpage for an anime called Yokohama Shopping Log.](https://con-ver-gence.neocities.org/anime/yokohama) 
 
 The show, set some time post-apocalypse, is suffused with lingering shots of the landscape, of the protagonist running her countryside cafe, and her journeys throughout rural Japan. 
 It's meant to make you pause, to take a moment and appreciate the transient beauty of life's slow passage.
