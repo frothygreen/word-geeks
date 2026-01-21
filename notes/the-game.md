@@ -1,4 +1,4 @@
-# On the poetry game I'm developing
+# On the poetry game I'm developing:
 
 ## The origin
 I was trying to solve a problem. In the summer of 2025, I [created a fanpage for an anime called Yokohama Shopping Log.](https://con-ver-gence.neocities.org/anime/yokohama) 
