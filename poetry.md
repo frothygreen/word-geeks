@@ -26,7 +26,7 @@ In 1930, French Surrealists wrote a poetry collection together over the span of 
 
 Over decades many, many collaborative poetic practices emerged, and you can read all about them elsewhere...
 
-- [Collaborative Poetry Wikipedia]([Collaborative Poetry Wiki](https://en.wikipedia.org/wiki/Collaborative_poetry))
+- [Collaborative Poetry Wikipedia](https://en.wikipedia.org/wiki/Collaborative_poetry)
 - [PoemsPlease]([PoemsPlease](https://poemsplease.com/a-guide-to-collaborative-poetry-writing-exercises/))
 - [written excerpt from a live collaboration between Kenneth Koch and Allen Ginsberg](https://allenginsberg.org/2025/02/t-f-25-2/)
 
