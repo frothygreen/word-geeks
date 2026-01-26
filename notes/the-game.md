@@ -15,7 +15,7 @@ How can I create a website in which one gets caught up in that movement, a lazy 
 As I thought about it, I wondered, "what if after each moment, people could respond, share their thoughts?"
 "What if they could share just one word?" 
 
-*Couldn't we create poetry, then?
+*Couldn't we create poetry, then?*
 
 This bloomed into a premise for collaborative poetry.
 
