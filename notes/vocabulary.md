@@ -1,5 +1,6 @@
 # On the vocabulary of GitHub
 
-Commit?
-Push & Pull
-Branches
+- Commit
+- Push & Pull
+- Branches
+- Actions
