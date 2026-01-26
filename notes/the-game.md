@@ -27,11 +27,11 @@ Then, why not scramble it? Let's say 3 people are playing this game.
 For each clip they each write 1-4 words.
 
 3 clips, 3-12 words per clip
-scramble only the associated words
+scramble only the associated words  
 
-clip 1: frog, green, swampy streams
-clip 2: water rushing, waterfall, a torrential downpour
-clip 3: stillness, quiet murmurs, calm
+clip 1: frog, green, swampy streams  
+clip 2: water rushing, waterfall, a torrential downpour  
+clip 3: stillness, quiet murmurs, calm  
 
 result:  
   
