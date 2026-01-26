@@ -6,7 +6,7 @@ Well, it all fell apart by the 4th or 5th go-round. For many reasons: lack of di
 
 Reg asked if I wanted to write some collaborative poetry. I immediately agreed. How exciting! We discussed what that could look like, and he shared some history of the art form. We talked about the type of poetry we wanted to create, and shared some inspirations, themes, ideas...
 
-Then came the question -- how? How do we write together? We went through the obvious options: the classic of emailing a document back and forth? Kinda fun, (and reminded me of my initial foray into collaboration)... but no. How about a shared document? We even discussed making a spreadsheet.
+Then came the question -- how? How do we write together? We went through the obvious options: the classic of emailing a document back and forth? Kinda fun, (and reminded me of my initial foray into collaboration)... but no. How about a shared document? We even discussed making a spreadsheet due to a conversation about an internet party which took place on google sheets.
 
 Where was a place that felt suitable?
 **These ones didn't feel right.**
