@@ -33,9 +33,10 @@ clip 1: frog, green, swampy streams
 clip 2: water rushing, waterfall, a torrential downpour
 clip 3: stillness, quiet murmurs, calm
 
-result:
-swampy streams
-a torrential downpour
-calm
+result:  
+  
+swampy streams  
+a torrential downpour  
+calm  
 
 (This example is completely made up)
