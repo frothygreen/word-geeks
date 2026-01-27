@@ -4,7 +4,7 @@
 In middle school, a couple of friends and I decided to write a story together. We'd email the document around. We'd each write from a different character's perspective, and eventually the stories would merge and we'd end up with something cohesive. 
 Well, it all fell apart by the 4th or 5th go-round. For many reasons: lack of direction, too many perspectives, maybe a bit of drama, and an increasing mutual disinterest in writing the story. I know some of us kept writing on our own, I certainly kept writing stories and poetry and had since forgotten about my early attempt at writing with other people. Until
 
-Reg asked if I wanted to write some collaborative poetry. I immediately agreed. How exciting! We discussed what that could look like, and he shared some history of the art form. We talked about the type of poetry we wanted to create, and shared some inspirations, themes, ideas...
+Reg asked back in November 2025 if I wanted to write some collaborative poetry. I immediately agreed. How exciting! We discussed what that could look like, and he shared some history of the art form. We talked about the type of poetry we wanted to create, and shared some inspirations, themes, ideas...
 
 Then came the question -- how? How do we write together? We went through the obvious options: the classic of emailing a document back and forth? Kinda fun, (and reminded me of my initial foray into collaboration)... but no. How about a shared document? We even discussed making a spreadsheet due to a conversation about an internet party which took place on google sheets.
 
