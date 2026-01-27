@@ -26,5 +26,6 @@ Otherwise:
 
 Also:
 - [Markdown Guide on GitHub](https://github.com/mattcone/markdown-guide)
+- {Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
