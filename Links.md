@@ -24,4 +24,7 @@ Otherwise:
 - [Applied Poetics](https://www.appliedpoetics.org/) - *very Oulipian!*
 - [Ian Bogost's *Play Anything*](https://www.google.com/search?q=ian+bogost+play+anything&newwindow=1&client=firefox-b-e&hs=cxRU&sca_esv=9cf56067a199ff72&sxsrf=AE3TifPKXQ_4s7Lr-nbgQbeaQzdu4Q0mvA%3A1767731323956&ei=e3BdafmLOq_n0PEPwbuDsAU&ved=0ahUKEwi5tf2s4PeRAxWvMzQIHcHdAFYQ4dUDCBE&uact=5&oq=ian+bogost+play+anything&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGlhbiBib2dvc3QgcGxheSBhbnl0aGluZzIEECMYJzIFEC4YgARIlglQoQZYoQZwAXgAkAEAmAGBAaABgQGqAQMwLjG4AQPIAQD4AQGYAgKgApMBwgILEAAYgAQYsAMYogTCAggQABiwAxjvBZgDAIgGAZAGApIHAzEuMaAH8AWyBwMwLjG4B4sBwgcDMi0yyAcJgAgA&sclient=gws-wiz-serp)
 
+Also:
+- [Markdown Guide on GitHub](https://github.com/mattcone/markdown-guide)
+
 
