@@ -24,7 +24,7 @@ It makes me think of call-and-response in music, but more structured and constra
 
 In 1930, French Surrealists wrote a poetry collection together over the span of 5 days. It was called Ralentir Traveaux (slow down construction). No one poem is assigned one author, and there's a playfulness and a strangeness to the verses. I wonder who wrote which parts; what exactly did this collaboration look like in practice? It's a fun mystery, and the denial of individual authorship is intriuging.
 
-Over decades many, many collaborative poetic practices emerged, and you can read more elsewhere...
+Over centuries, many collaborative writing practices have occurred, and you can read more elsewhere...
 
 - [Collaborative Poetry Wikipedia](https://en.wikipedia.org/wiki/Collaborative_poetry)
 - [How's and Why's of Collaborative Poetry](https://www.boloji.com/articles/49693/hows-and-whys-of-collaborative-poetry)
