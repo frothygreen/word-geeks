@@ -33,6 +33,8 @@ Over centuries, many collaborative writing practices have occurred, and you can 
 - [Poetry Foundation - Theme: Collaborative Works](https://www.poetryfoundation.org/themes/collaborative-works)
 - [written excerpt from a live collaboration between Kenneth Koch and Allen Ginsberg](https://allenginsberg.org/2025/02/t-f-25-2/)
 
+- [Collaborative Literary Creation and Control: A Socio-Historic, Technological and Legal Analysis](https://mako.cc/academic/collablit/writing/BenjMakoHill-CollabLit_and_Control/hist.html)
+
 So let's ask the question: why Github?
 
 We thought it'd be a fun experiment. **A new mode.**
