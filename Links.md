@@ -3,7 +3,7 @@
 - [A Poet's Guide to Git](https://writerly.dev/#fn:1) - working with the command line...
 
 ## Briefly...
-*Some links looking at a variety of poetics with a focus on short form work and linked work.*
+*Some links looking at a variety of poetics with a focus on short form and linked work.*
 
 To start with:
 - [OuLiPo](https://en.wikipedia.org/wiki/Oulipo)
