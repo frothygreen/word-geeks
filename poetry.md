@@ -27,6 +27,7 @@ In 1930, French Surrealists wrote a poetry collection together over the span of 
 Over decades many, many collaborative poetic practices emerged, and you can read more elsewhere...
 
 - [Collaborative Poetry Wikipedia](https://en.wikipedia.org/wiki/Collaborative_poetry)
+- [How's and Why's of Collaborative Poetry](https://www.boloji.com/articles/49693/hows-and-whys-of-collaborative-poetry)
 - [League of Canadian Poets - The Joys and Challenges of Creating Collaborative Art](https://poets.ca/collaborative-poetry/)
 - [PoemsPlease Guide to Collaborative Poetry Writing Exercises](https://poemsplease.com/a-guide-to-collaborative-poetry-writing-exercises/)
 - [Poetry Foundation - Theme: Collaborative Works](https://www.poetryfoundation.org/themes/collaborative-works)
