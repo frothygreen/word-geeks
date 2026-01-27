@@ -1,7 +1,7 @@
 # speaking notes
 ## ~20 minutes
 
--intro
+-intro the new site
 - how/why we landed on github
 - What is collaborative poetry?
 - our research questions and ideas about collaboration
