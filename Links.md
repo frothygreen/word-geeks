@@ -1,6 +1,7 @@
 ## Re: GitHub
 - [How GitHub Revolutionized Open Source Collaboration](https://www.geeksforgeeks.org/git/how-github-revolutionized-open-source-collaboration/)
 - [A Poet's Guide to Git](https://writerly.dev/#fn:1) - working with the command line...
+- [The Coding Train: Git and GitHub for Poets Video series](https://thecodingtrain.com/tracks/git-and-github-for-poets)
 
 ## Briefly...
 *Some links looking at a variety of poetics with a focus on short form and linked work.*
