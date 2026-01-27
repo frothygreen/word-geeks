@@ -19,3 +19,5 @@ Something along the lines of  Shichi-fuku-jin dolls or Matryoshka dolls?
 - [Kokeshi Dolls / Antique and Modern](https://kokeshijapan.com/)
 
 I need to think a bit more about this idea of 'constraints within constraints'.
+
+Add a line here.
